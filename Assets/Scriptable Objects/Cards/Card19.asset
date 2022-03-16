@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6935839b94e0af6419b2fdf8e14b61bf, type: 3}
+  m_Name: Card19
+  m_EditorClassIdentifier: 
+  id: 19
+  name: LifeSaver
+  description: 'Gain 6 Hp '
+  artwork: {fileID: 21300000, guid: 5b2d10c1edf42464a9fd8e6af51ff8d9, type: 3}
+  cardClass: 2
+  manaCost: 0
+  attack: 0
+  hp: 6
+  isCardBack: 0
+  shield: 0

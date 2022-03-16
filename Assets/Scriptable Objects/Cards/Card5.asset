@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6935839b94e0af6419b2fdf8e14b61bf, type: 3}
+  m_Name: Card5
+  m_EditorClassIdentifier: 
+  id: 5
+  name: GoldenShield
+  description: Gain 5 Shield
+  artwork: {fileID: 21300000, guid: 039979bca5534f04da1681e221ce3b50, type: 3}
+  cardClass: 1
+  manaCost: 3
+  attack: 0
+  hp: 0
+  isCardBack: 0
+  shield: 5
